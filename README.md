@@ -9,7 +9,6 @@ The Token Faucet is a beginner-friendly dApp that allows users to claim free tes
 - ERC20 token interaction
 - Rate limiting mechanisms
 - User balance tracking
-- Time-based cooldowns
 - Frontend blockchain integration
 
 ## ✨ Features
